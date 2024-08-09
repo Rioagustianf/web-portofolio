@@ -30,21 +30,21 @@ const HeroSection = () => {
               target="_blank"
               className="transition-all hover:text-[#16f2b3] hover:scale-125 duration-300"
             >
-              <img src="/public/github.svg" alt="" />
+              <img src="/github.svg" alt="" />
             </Link>
             <Link
               to={personalData.linkedIn}
               target="_blank"
               className="transition-all hover:text-[#16f2b3] hover:scale-125 duration-300"
             >
-              <img src="/public/linkedin.svg" alt="Linkedin" />
+              <img src="/linkedin.svg" alt="Linkedin" />
             </Link>
             <Link
               to={personalData.instagram}
               target="_blank"
               className="transition-all hover:text-[#16f2b3] hover:scale-125 duration-300"
             >
-              <img src="/public/instagram.svg" alt="instagram" />
+              <img src="/instagram.svg" alt="instagram" />
             </Link>
           </div>
 
