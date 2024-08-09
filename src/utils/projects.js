@@ -7,7 +7,7 @@ export const projects = [
       "Saya dan tim capstone project studi independent di dicoding indonesia membuat sebuah website untuk mempermudah pembelian sayur mayur yang sedar langsung dari para petani",
     role: "Frontend Developer",
     repo: "https://github.com/Rioagustianf/Serbasayur.id.git",
-    img: "public/project/project1.png",
+    img: "/project/project1.png",
   },
   {
     id: 2,
@@ -17,6 +17,6 @@ export const projects = [
       "Saya membuat aplikasi React Notes sebagai submission yaitu aplikasi pencatat sederhana yang dibangun dengan React dan Tailwind CSS. Pengguna dapat menambahkan, mencari, mengarsipkan, dan menghapus catatan dengan mudah.",
     role: "Frontend Developer",
     repo: "https://github.com/yourusername/notes-app",
-    img: "public/project/project1.png",
+    img: "/project/project1.png",
   },
 ];

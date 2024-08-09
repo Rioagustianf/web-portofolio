@@ -15,7 +15,7 @@ const Experience = () => {
       className="relative border-t my-12 lg:my-24 border-[#25213b]"
     >
       <img
-        src="/public/hero.svg"
+        src="/hero.svg"
         alt="hero image"
         width={1572}
         height={795}
@@ -74,7 +74,7 @@ const Experience = () => {
                 >
                   <div className="p-3 relative">
                     <img
-                      src="/public/blur-23.svg"
+                      src="/blur-23.svg"
                       alt="Hero"
                       width={1080}
                       height={200}

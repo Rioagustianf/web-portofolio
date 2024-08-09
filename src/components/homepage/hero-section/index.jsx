@@ -8,7 +8,7 @@ const HeroSection = () => {
   return (
     <section className="relative flex flex-col items-center justify-between py-4 lg:py-12">
       <img
-        src="/public/hero.svg"
+        src="/hero.svg"
         alt="hero image"
         width={1572}
         height={795}

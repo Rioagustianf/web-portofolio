@@ -50,14 +50,14 @@ const About = () => {
           transition={{ duration: 1 }}
         >
           <img
-            src="/public/blob.svg"
+            src="/blob.svg"
             width={300}
             height={300}
             alt="blob"
             className="z-0 md:w-200 sm:w-200"
           />
           <img
-            src="/public/profile.png"
+            src="/profile.png"
             width={310}
             height={300}
             alt="profile"
