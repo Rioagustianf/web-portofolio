@@ -17,6 +17,6 @@ export const projects = [
       "Saya membuat aplikasi React Notes sebagai submission yaitu aplikasi pencatat sederhana yang dibangun dengan React dan Tailwind CSS. Pengguna dapat menambahkan, mencari, mengarsipkan, dan menghapus catatan dengan mudah.",
     role: "Frontend Developer",
     repo: "https://github.com/yourusername/notes-app",
-    img: "/project/project1.png",
+    img: "/project/project2.png",
   },
 ];
