@@ -19,4 +19,14 @@ export const projects = [
     repo: "https://github.com/yourusername/notes-app",
     img: "/project/project2.png",
   },
+  {
+    id: 3,
+    name: "FIND",
+    tools: ["React", "Tailwind CSS"],
+    description:
+      "FIND adalah sebuah website untuk menemukan dan mengeksplorasi film terbaru serta populer, menggunakan data dari The Movie Database (TMDb) API. Website ini menawarkan fitur pencarian film, filter berdasarkan genre, dan detail lengkap film seperti rating, trailer, serta sinopsis. Dibangun menggunakan React.js, dan TilwindCSS.",
+    role: "Frontend Developer",
+    repo: "https://github.com/Rioagustianf/FIND.git",
+    img: "/project/project3.png",
+  },
 ];
